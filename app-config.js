@@ -163,9 +163,9 @@ const appConfig = {
 	//APP HEADER
 	//Header for the app.
 	//Default name is 'Historical  Map Explorer'
-	appHeaderName: 'Florida Map Explorer  ',
+	appHeaderName: 'Florida Map Explorer    ',
 	//Changes the name of the tab in the browser.
-	appTitleName: 'Florida Map Explorer  ',
+	appTitleName: 'Florida Map Explorer    ',
 	//Color of the sidebar header.
 	appHeaderColor: '#ABB4C2',
 	//these imgs will append in the sidebar, next to the appHeaderName. The src location for these images are in the "public/images" folder.
