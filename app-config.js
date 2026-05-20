@@ -142,7 +142,7 @@ const appConfig = {
 	//INFO MODAL
 	//controls whether or not an info icon for the info modal will be rendered.
 	enableInfoModal: true,
-	//the text that will populate for the app's info modal. If value is null/false, text will default to the Topo explorer's text.
+	//the text that will populate for the app's info modal. If value is null/false, text will default to the  explorer's text.
 	informationParagraph: '',
 	//================================================================================
 	//OAUTH2 USER AUTHENTICATION
@@ -162,16 +162,16 @@ const appConfig = {
 	//================================================================================
 	//APP HEADER
 	//Header for the app.
-	//Default name is 'Historical Topo Map Explorer'
+	//Default name is 'Historical  Map Explorer'
 	appHeaderName: '',
 	//Changes the name of the tab in the browser.
-	appTitleName: 'Historical Topo Map Explorer',
+	appTitleName: 'Florida Map Explorer',
 	//Color of the sidebar header.
 	appHeaderColor: '#ABB4C2',
 	//these imgs will append in the sidebar, next to the appHeaderName. The src location for these images are in the "public/images" folder.
 	headerLogoImgs: [
 		{
-			imageSrc: './public/images/usgs_logo.png',
+			imageSrc: './public/images/USF_White_Horizontal.png',
 			altText: 'United States Geological Survey Logo',
 		},
 		{
