@@ -163,7 +163,7 @@ const appConfig = {
 	//APP HEADER
 	//Header for the app.
 	//Default name is 'Historical  Map Explorer'
-	appHeaderName: '',
+	appHeaderName: 'Florida Map Explorer',
 	//Changes the name of the tab in the browser.
 	appTitleName: 'Florida Map Explorer',
 	//Color of the sidebar header.
@@ -174,10 +174,10 @@ const appConfig = {
 			imageSrc: './public/images/USF_White_Horizontal.png',
 			altText: 'United States Geological Survey Logo',
 		},
-		{
-			imageSrc: './public/images/esri-10GlobeLogo_1CRev.png',
-			altText: 'esri Logo',
-		},
+		//{
+			//imageSrc: './public/images/esri-10GlobeLogo_1CRev.png',
+			//altText: 'esri Logo',
+		//},
 	],
 	//================================================================================
 	//MAP EXPORT SETTINGS
