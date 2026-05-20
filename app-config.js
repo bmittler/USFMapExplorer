@@ -70,7 +70,7 @@ const appConfig = {
 	//REST ENDPOINT and URL PARAMS
 	//URL for the image service that will contain the image collection for the application.
 	imageServerURL: '',
-	// 'https://www.ocgis.com/arcpub/rest/services/Historic_Imagery/Historic_Imagery/ImageServer/',
+	'https://www.ocgis.com/arcpub/rest/services/Historic_Imagery/Historic_Imagery/ImageServer/',
 
 	//where clause for the query
 	whereStatement: '1=1',
