@@ -29,10 +29,11 @@ const appConfig = {
 	//Default settings for the webmap when the app loads.
 	//the default webmap uses a web mercator spatial reference, so the center coordinates are longitude, latitude.
 	defaultMapSettings: {
-		center: [-98.5357, 40.1549],
-		zoom: 4,
+		center: [-82, 28],
+		zoom: 6,
 		constraints: {
 			minZoom: 3,
+			maxZoom: 15,
 		},
 	},
 	//================================================================================
