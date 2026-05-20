@@ -89,35 +89,35 @@ const appConfig = {
 			//Name of the image.
 			//This field also determines how these images are sorted when sorted alphabetically (A-Z or Z-A)
 			//Will be displayed on the card in both the title and, if 'mapLocation' is being used, the subtitle .
-			mapName: 'Map_Name',
+			mapName: 'Name',
 			//Name of the image's location.
 			// Will be combined with the 'mapName' value and displayed as the subtitle for the mapCard.
 			mapLocation: 'State',
 			//date of image. Number value (YYYY format)
 			//This value is tied to the years slider filter.
 			//Appears on the mapCard
-			dateCurrent: 'DateCurrent',
+			dateCurrent: 'Year',
 			//Map Scale of the image. Number value (#,### format)
 			//The mapScale value is tied to the 'scales' slider filter.
 			//Appears on the mapCard
-			mapScale: 'Map_Scale',
+			mapScale: 'projection_zone',
 			//download link for the map.
 			// If this is set to false or commented out, the download btn will not render
-			mapDownloadLink: 'DownloadG',
+			//mapDownloadLink: 'DownloadG',
 		},
 		optionalFields: {
 			//Year of the map's printing. Number value (YYYY format).
 			// Appears on the map card as the 'publication' year.
-			publicationYear: 'Imprint_Year',
+			//publicationYear: 'Imprint_Year',
 			//Tooltip contents
 			//The tooltip can be turned off. If so, these fields can be commented out or set to false.
-			surveyYear: 'Survey_Year',
-			photoYear: 'Aerial_Photo_Year',
-			photoRevisionYear: 'Photo_Revision_Year',
-			fieldCheckYear: 'Field_Check_Year',
-			projection: 'Projection',
-			datum: 'Datum',
-			citation: 'Citation',
+			//surveyYear: 'Survey_Year',
+			//photoYear: 'Aerial_Photo_Year',
+			//photoRevisionYear: 'Photo_Revision_Year',
+			//fieldCheckYear: 'Field_Check_Year',
+			projection: 'projection_name',
+			datum: 'datum',
+			//citation: 'Citation',
 		},
 	},
 	//================================================================================
