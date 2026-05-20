@@ -69,7 +69,7 @@ const appConfig = {
 	//================================================================================
 	//REST ENDPOINT and URL PARAMS
 	//URL for the image service that will contain the image collection for the application.
-	imageServerURL: 'https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPImagery/ImageServer,
+	imageServerURL: 'https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPImagery/ImageServer',
 
 	//where clause for the query
 	whereStatement: '1=1',
