@@ -15,7 +15,7 @@
 html,
 body,
 main {
-  --scrollbarBG: #E7EBEE;
+  --scrollbarBG: #F3F6F6;
   --thumbBG: #90A4AE;
   font-family: 'Roboto Condensed', sans-serif;
   color: #637287;
@@ -410,7 +410,7 @@ border-radius: 0;
 
 .mobile-header {
   
-  background-color: #e7ebee;
+  background-color: #F3F6F6;
   height: 60px;
   width: 100%;
   padding: 10px 15px;
@@ -437,7 +437,7 @@ main .map-list-item.mobile{
 
 #sideBarWrapper {
   height: 100%;
-  background-color: #e7ebee;
+  background-color: #F3F6F6;
   transition: 0.5s ease;
 }
 
@@ -448,7 +448,7 @@ main .map-list-item.mobile{
   width: 400px;
   max-width: 500px;
   padding: 0 10px;
-  background-color: #e7ebee;
+  background-color: #F3F6F6;
   z-index: 4;
 }
 
@@ -488,7 +488,7 @@ background: none;
   justify-content: center;
   padding: 3px;
   border-radius: 4px;
-  background: #E7EBEE ;
+  background: #F3F6F6 ;
   box-shadow: inset 6px 6px 6px #eaeef1, -2px -2px 3px #f9fbfb, 3px 3px 4px #d8e0e7;
 }
 
@@ -505,13 +505,13 @@ background: none;
   justify-content: center;
   padding: 3px;
   border-radius: 4px;
-  background: #E7EBEE;
+  background: #F3F6F6;
   box-shadow: inset 6px 6px 6px #eaeef1, -2px -2px 3px #f9fbfb, 3px 3px 4px #d8e0e7;
   margin: 0 0 0 3%;
 }
 .mapsFooter {
   height: 40px;
-  background: #E7EBEE;
+  background: #F3F6F6;
 }
 
 .mapsFooter .footer-shadow {
@@ -633,7 +633,7 @@ transform: translate(5px, 0px);
 
 .downloadIndicator{
   padding: 1rem;
-  background:#e7ebee;
+  background:#F3F6F6;
   box-shadow: 0px 0px 6px #111111;
   border-radius: 0 0 12px 0;
   align-items: center;
